@@ -8,7 +8,7 @@ Steps:
 4. Run the project : java -jar ./target/coding-assignment-daofab-0.0.1-SNAPSHOT.jar
 5. Verify assignment tasks.
 
-1. API get parent transactions GET : localhost:8888/dao-fab/api/v1/transaction/parent?page=0&size=2
+1. API get parent transactions GET : http://localhost:8888/dao-fab/api/v1/transaction/parent?page=0&size=2
 
 Sample response :
 [
