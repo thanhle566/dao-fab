@@ -1,6 +1,6 @@
 # DAOFAB Coding Assignment
 
-###Server
+### Server
 Steps:
 1. git clone https://github.com/thanhle566/dao-fab.git
 2. Go to dao-fab/server
